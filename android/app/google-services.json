@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1098106574949",
+    "project_id": "proyecto-snickers",
+    "storage_bucket": "proyecto-snickers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098106574949:android:604459d759dcc1fa294e8c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_snickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098106574949-liha0s783miq220ud47bn5j9tma5vsf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_snickers",
+            "certificate_hash": "ec563af5c176dbf41f25cb2e1ecdc391cb66b5af"
+          }
+        },
+        {
+          "client_id": "1098106574949-72ac4tvcea51lcblo1sj1mehad72rca8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQRv7Yag03gF3DNxzV9Lva-QkCqtUaEZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098106574949-72ac4tvcea51lcblo1sj1mehad72rca8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
