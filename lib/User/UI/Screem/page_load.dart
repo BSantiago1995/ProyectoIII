@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_snickers/User/UI/Screem/home.dart';
+import 'package:flutter_application_snickers/User/UI/Screem/autenticacion.dart';
+
 
 
 class Inicio extends StatefulWidget{
@@ -12,7 +13,7 @@ class _Inicio extends State<Inicio>{
     void initState(){
       Future.delayed(const Duration(
       seconds: 3),
-      ()=> Navigator.push(context, MaterialPageRoute(builder: (context)=>Home())),
+      ()=> Navigator.push(context, MaterialPageRoute(builder: (context)=>Login())),
       
       );
       super.initState();
